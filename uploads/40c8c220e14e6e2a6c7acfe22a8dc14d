@@ -1,0 +1,28 @@
+Time: 2018-09-03T22:22:48.316164
+[OK] unzipped file: classes.csv.
+[OK] unzipped file: courses.csv.
+[OK] unzipped file: locations.csv.
+[OK] unzipped file: rosters.csv.
+[OK] unzipped file: staff.csv.
+[OK] unzipped file: students.csv.
+[OK] headers and first record.
+[OK] all files provide unique primary keys within each file.
+[OK] person_id values are unique across students and staff.
+[ERROR] classes.csv/location_id references an invalid locations.csv/location_id
+classes.csv L1: location_id = 'OCS-2018' does not reference any locations.csv location_id values
+classes.csv L2: location_id = 'OCS-2018' does not reference any locations.csv location_id values
+classes.csv L3: location_id = 'OCS-2018' does not reference any locations.csv location_id values
+classes.csv L4: location_id = 'OCS-2018' does not reference any locations.csv location_id values
+classes.csv L5: location_id = 'OCS-2018' does not reference any locations.csv location_id values
+classes.csv L6: location_id = 'OCS-2018' does not reference any locations.csv location_id values
+classes.csv L7: location_id = 'OCS-2018' does not reference any locations.csv location_id values
+classes.csv L8: location_id = 'OCS-2018' does not reference any locations.csv location_id values
+classes.csv L9: location_id = 'OCS-2018' does not reference any locations.csv location_id values
+classes.csv L10: location_id = 'OCS-2018' does not reference any locations.csv location_id values
+classes.csv L11: location_id = 'OCS-2018' does not reference any locations.csv location_id values
+classes.csv L12: location_id = 'OCS-2018' does not reference any locations.csv location_id values
+classes.csv L13: location_id = 'OCS-2018' does not reference any locations.csv location_id values
+classes.csv L14: location_id = 'OCS-2018' does not reference any locations.csv location_id values
+classes.csv L15: location_id = 'OCS-2018' does not reference any locations.csv location_id values
+classes.csv L16: location_id = 'OCS-2018' does not reference any locations.csv location_id values
+classes.csv L17: location_id = 'OCS-2018' does not reference any locations.csv location_id values
